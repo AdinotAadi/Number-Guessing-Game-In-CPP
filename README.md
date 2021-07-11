@@ -1,5 +1,7 @@
 # Number-Guessing-Game-In-CPP
-This is a CPP version of the number guessing game I made in Java. A fun little game!
+This is a CPP version of the number guessing game I made in Java.
+
+A fun little game!
 
 You can find the Java version of the same at https://github.com/AdinotAadi/RandomNumberGuessingGame
 
